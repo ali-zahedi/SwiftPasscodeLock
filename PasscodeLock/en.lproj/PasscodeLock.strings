@@ -7,27 +7,27 @@
 */
 
 /* Enter Passcode State */
-"PasscodeLockEnterTitle" = "Enter Passcode";
-"PasscodeLockEnterDescription" = "Enter your passcode to proceed.";
+"PasscodeLockEnterTitle" = "رمز عبور";
+"PasscodeLockEnterDescription" = "رمز عبور را وارد نمایید";
 
 /* Set Passcode State */
-"PasscodeLockSetTitle" = "Enter a Passcode";
-"PasscodeLockSetDescription" = "Choose your passcode.";
+"PasscodeLockSetTitle" = "رمز عبور";
+"PasscodeLockSetDescription" = "رمز عبور خود را انتخاب کنید";
 
 /* Confirm Passcode State */
-"PasscodeLockConfirmTitle" = "Confirm Passcode";
-"PasscodeLockConfirmDescription" = "Enter the passcode again.";
+"PasscodeLockConfirmTitle" = "تایید رمز عبور";
+"PasscodeLockConfirmDescription" = "رمز عبور خود را مجدد وارد نماید";
 
 /* Change Passcode State */
-"PasscodeLockChangeTitle" = "Enter Old Passcode";
-"PasscodeLockChangeDescription" = "Enter your old passcode.";
+"PasscodeLockChangeTitle" = "رمز عبور قدیم";
+"PasscodeLockChangeDescription" = "رمز عبور قدیم خود را وارد نمایید.";
 
 /* Passcode Mismatch State */
-"PasscodeLockMismatchTitle" = "Try again";
-"PasscodeLockMismatchDescription" = "Passcodes didn\'t match.";
+"PasscodeLockMismatchTitle" = "دوباره تلاش کنید";
+"PasscodeLockMismatchDescription" = "رمز عبورها یکسان نیستند.";
 
 /* Touch ID Reason */
-"PasscodeLockTouchIDReason" = "Authentication required to proceed";
+"PasscodeLockTouchIDReason" = "اعتبار سنجی بیومتریک";
 
 /* Touch ID Fallback Button */
-"PasscodeLockTouchIDButton" = "Enter Passcode";
+"PasscodeLockTouchIDButton" = "رمز عبور";
