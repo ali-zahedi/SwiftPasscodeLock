@@ -104,9 +104,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		412C87FF1E253A1B00693041 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/Main.strings; sourceTree = "<group>"; };
-		412C88001E253A1B00693041 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		412C88071E253A1C00693041 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/PasscodeLock.strings; sourceTree = "<group>"; };
 		C99EAF3F1B90B05700D61E1B /* PasscodeLock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PasscodeLock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C99EAF421B90B05700D61E1B /* PasscodeLock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PasscodeLock.h; sourceTree = "<group>"; };
 		C99EAF441B90B05700D61E1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -644,7 +641,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				C9D3DF171B91AD11008561EB /* Base */,
-				412C87FF1E253A1B00693041 /* fa */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -653,7 +649,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				C9D3DF1C1B91AD11008561EB /* Base */,
-				412C88001E253A1B00693041 /* fa */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -662,7 +657,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				C9DC07FB1B90D0A3007A4DD0 /* en */,
-				412C88071E253A1C00693041 /* fa */,
 			);
 			name = PasscodeLock.strings;
 			sourceTree = "<group>";
